@@ -1,4 +1,5 @@
- PostgreSQL database dump
+--
+-- PostgreSQL database dump
 --
 
 -- Dumped from database version 12.17 (Ubuntu 12.17-1.pgdg22.04+1)
